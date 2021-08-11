@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Ankita-Dhamale.github.io/keeper/static/js/main.6db205ff.chunk.js",
+    "main.js.map": "/Ankita-Dhamale.github.io/keeper/static/js/main.6db205ff.chunk.js.map",
+    "runtime-main.js": "/Ankita-Dhamale.github.io/keeper/static/js/runtime-main.3b069e8e.js",
+    "runtime-main.js.map": "/Ankita-Dhamale.github.io/keeper/static/js/runtime-main.3b069e8e.js.map",
+    "static/js/2.8a7bb18b.chunk.js": "/Ankita-Dhamale.github.io/keeper/static/js/2.8a7bb18b.chunk.js",
+    "static/js/2.8a7bb18b.chunk.js.map": "/Ankita-Dhamale.github.io/keeper/static/js/2.8a7bb18b.chunk.js.map",
+    "index.html": "/Ankita-Dhamale.github.io/keeper/index.html",
+    "precache-manifest.dab92aca85994916d81860d5cb99605a.js": "/Ankita-Dhamale.github.io/keeper/precache-manifest.dab92aca85994916d81860d5cb99605a.js",
+    "service-worker.js": "/Ankita-Dhamale.github.io/keeper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b069e8e.js",
+    "static/js/2.8a7bb18b.chunk.js",
+    "static/js/main.6db205ff.chunk.js"
+  ]
+}
